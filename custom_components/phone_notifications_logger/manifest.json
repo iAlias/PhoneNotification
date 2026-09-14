@@ -3,9 +3,9 @@
   "name": "Phone Notifications Logger",
   "codeowners": ["@iAlias"],
   "dependencies": [],
-  "documentation": "https://github.com/iAlias/Phone-Notification",
+  "documentation": "https://github.com/iAlias/PhoneNotification",
   "iot_class": "local_push",
-  "issue_tracker": "https://github.com/iAlias/Phone-Notification/issues",
+  "issue_tracker": "https://github.com/iAlias/PhoneNotification/issues",
   "requirements": [],
   "version": "0.2.0"
 }
